@@ -8,9 +8,9 @@ This poject focuses on predicting the asking prices of properties in Singapore t
 
 ### Documentation notebook <a name = "docnote"></a>
 These notebook comprehensively demonstrate the idea detailing EDA, distance based calculation and regression task. 
-- [`EDA`]()
+- [`EDA`](https://nbviewer.org/github/singhvarsha0808/Singapore-property-resale-price-prediction/blob/main/EDA.ipynb)
 - [`Add_Distance_based_features`]()
-- [`Regression`]()
+- [`Regression`](https://nbviewer.org/github/singhvarsha0808/Singapore-property-resale-price-prediction/blob/main/FeatureEngineering_Regression.ipynb)
 
 ### About The Dataset <a name = "datasetinfo"></a>
 
